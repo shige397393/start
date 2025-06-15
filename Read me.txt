@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .center-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  </style>
+</head>
+<body>
+  <div class="center-text">ご回答ありがとうございました<br>調査協力に感謝します。ありがとう</div>
+</body>
+</html>
